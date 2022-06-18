@@ -1,0 +1,11 @@
+.detail{
+    padding: .75rem;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+.detail img{
+    width: 100%;
+}
+.detail h3{
+    margin-bottom: 3px;
+}
